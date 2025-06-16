@@ -35,3 +35,9 @@ https://wa.me/+263784868165?text=hi+Emmanuel
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_EM_XMD_CHANNEL-000000?style=for-the-badge&logo=Car&logoColor=blue&color=skyblue" width="260" height="50"/>
   </a>
   
+<!-- Action Buttons -->
+<p align="center">
+  <a href="tiktok.com/@emxmd_tech">
+    <img title="EM_XMD_TIKTOK" src="https://img.shields.io/badge/🔑_EM_XMD_TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=blue&color=skyblue" width="260" height="50"/>
+  </a>
+  

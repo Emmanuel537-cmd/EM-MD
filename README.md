@@ -13,7 +13,7 @@
 </p>
 
 # CHANNEL 
-https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u
+https://whatsapp.com/channel/0029Van8zI4F1YlNb9CKVz3U
 
 # GROUP
 https://chat.whatsapp.com/KqGXwg7SWStGj62SVwnPXo

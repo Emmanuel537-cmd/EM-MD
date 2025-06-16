@@ -20,3 +20,18 @@ https://chat.whatsapp.com/KqGXwg7SWStGj62SVwnPXo
 
 # OWNER 
 https://wa.me/+263784868165?text=hi+Emmanuel
+
+# MORE 
+
+<!-- Action Buttons -->
+<p align="center">
+  <a href="https://www.ibrahimadams.site/scanner">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+  </a>
+
+  <!-- Action Buttons -->
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_EM_XMD_CHANNEL-000000?style=for-the-badge&logo=Car&logoColor=blue&color=skyblue" width="260" height="50"/>
+  </a>
+  

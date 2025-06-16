@@ -19,4 +19,4 @@ https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u
 https://chat.whatsapp.com/KqGXwg7SWStGj62SVwnPXo
 
 # OWNER 
-https://wa.me/+263784868165?=hi+Emmanuel
+https://wa.me/+263784868165?text=hi+Emmanuel

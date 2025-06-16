@@ -26,18 +26,18 @@ https://wa.me/+263784868165?text=hi+Emmanuel
 <!-- Action Buttons -->
 <p align="center">
   <a href="https://www.em-md.site/scanner">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_EM_MD_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_EM_MD_SESSION-000000?style=for-the-badge&logo=render&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
 
   <!-- Action Buttons -->
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_EM_XMD_CHANNEL-000000?style=for-the-badge&logo=Car&logoColor=blue&color=skyblue" width="260" height="50"/>
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_EM_XMD_CHANNEL-000000?style=for-the-badge&logo=whatsapp&logoColor=green&color=skyblue" width="260" height="50"/>
   </a>
   
 <!-- Action Buttons -->
 <p align="center">
   <a href="tiktok.com/@emxmd_tech">
-    <img title="EM_XMD_TIKTOK" src="https://img.shields.io/badge/🔑_EM_XMD_TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=blue&color=skyblue" width="260" height="50"/>
+    <img title="EM_XMD_TIKTOK" src="https://img.shields.io/badge/🔑_EM_XMD_TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=black&color=skyblue" width="260" height="50"/>
   </a>
   

@@ -12,8 +12,11 @@
   </a>
 </p>
 
-# MORE 
+# CHANNEL 
+https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u
 
-<!-- action button -->
-<a 
-button="CHANNEL" white&blue
+# GROUP
+https://chat.whatsapp.com/KqGXwg7SWStGj62SVwnPXo
+
+# OWNER 
+

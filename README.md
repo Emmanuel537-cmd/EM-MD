@@ -37,7 +37,7 @@ https://wa.me/+263784868165?text=hi+Emmanuel
   
 <!-- Action Buttons -->
 <p align="center">
-  <a href="tiktok.com/@emxmd_tech">
+  <a href="https://tiktok.com/@emxmd_tech">
     <img title="EM_XMD_TIKTOK" src="https://img.shields.io/badge/🔑_EM_XMD_TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=black&color=skyblue" width="260" height="50"/>
   </a>
   
